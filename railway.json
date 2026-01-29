@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "RAILWAY_DOCKERFILE_PATH",
+    "dockerfile": "Dockerfile"
+  }
+}
